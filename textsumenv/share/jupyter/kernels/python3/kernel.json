@@ -1,6 +1,6 @@
 {
  "argv": [
-  "python",
+  "e:/techfolders/Text-Summarizer-Project/textsumenv\\python.exe",
   "-m",
   "ipykernel_launcher",
   "-f",
