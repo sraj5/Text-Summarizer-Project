@@ -4,6 +4,8 @@ import evaluate
 import torch
 import pandas as pd
 from tqdm import tqdm
+from textsummarizer.entity import ModelEvaluationConfig
+
 
 class ModelEvaluation:
     def __init__(self, config: ModelEvaluationConfig):
